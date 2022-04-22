@@ -1,1 +1,1 @@
-It is musical , band, song related WordPress Theme. Powered by MhrThemes.
+It is a musical, band, song related WordPress Theme. Powered by MhrTheme.
